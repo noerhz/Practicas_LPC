@@ -1,0 +1,370 @@
+{
+  "data": {
+    "domain": "youtube.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": true,
+    "pattern": "{first}{last}",
+    "organization": "You Tube",
+    "country": "US",
+    "state": null,
+    "emails": [
+      {
+        "value": "mikeyjerome@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "hermosaone.com",
+            "uri": "http://hermosaone.com/musician/mikey-jerome",
+            "extracted_on": "2021-07-06",
+            "last_seen_on": "2021-07-06",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Mikey",
+        "last_name": "Jerome",
+        "position": "Singer Songwriter",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-21",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "carlaauld@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "njflutesociety.org",
+            "uri": "http://njflutesociety.org/directory",
+            "extracted_on": "2021-06-29",
+            "last_seen_on": "2021-06-29",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Carla",
+        "last_name": "Auld",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "maryrose@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "docs.justia.com",
+            "uri": "http://docs.justia.com/cases/federal/district-courts/new-york/nysdce/1:2007cv02103/302164/208/56.html",
+            "extracted_on": "2020-04-16",
+            "last_seen_on": "2021-07-31",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Maryrose",
+        "last_name": "Kevin",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "loganpaul@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "aatventure.news",
+            "uri": "http://aatventure.news/profile/logan-paul",
+            "extracted_on": "2020-04-04",
+            "last_seen_on": "2021-07-19",
+            "still_on_page": true
+          },
+          {
+            "domain": "legio.online",
+            "uri": "http://legio.online/profile/logan-paul",
+            "extracted_on": "2020-04-03",
+            "last_seen_on": "2020-04-03",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Logan",
+        "last_name": "Paul",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "loganpaul",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "mahmoud@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "bu.edu.eg",
+            "uri": "http://bu.edu.eg/staff/marwamahmoud7-reports",
+            "extracted_on": "2021-07-12",
+            "last_seen_on": "2021-07-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "bu.edu.eg",
+            "uri": "http://bu.edu.eg/staff-ar/marwamahmoud7",
+            "extracted_on": "2021-07-11",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "bu.edu.eg",
+            "uri": "http://bu.edu.eg/staff/marwamahmoud7-memberships&awards",
+            "extracted_on": "2021-07-11",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "bu.edu.eg",
+            "uri": "http://bu.edu.eg/staff/marwamahmoud7-photos",
+            "extracted_on": "2021-07-11",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "bu.edu.eg",
+            "uri": "http://bu.edu.eg/staff/marwamahmoud7-publications/34429",
+            "extracted_on": "2021-07-11",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Mahmoud",
+        "last_name": "Saad",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": "http://dr.marwa saad@linkedin.com",
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "billielemere@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "clips-n-cuts.com",
+            "uri": "http://clips-n-cuts.com/2018/08/altenew-watercolor-blog-hop-giveaway/comment-page-2",
+            "extracted_on": "2019-02-27",
+            "last_seen_on": "2021-07-02",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Billie",
+        "last_name": "Lemere",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "rekharao@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "rajasthanicinema.com",
+            "uri": "http://rajasthanicinema.com/rekha-rao",
+            "extracted_on": "2018-12-25",
+            "last_seen_on": "2021-07-15",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Rekha",
+        "last_name": "Rao",
+        "position": "Producer Director",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "earnestgoldsmith@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "gust.com",
+            "uri": "http://gust.com/companies/portable_farrrier_box",
+            "extracted_on": "2017-12-29",
+            "last_seen_on": "2021-07-18",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Earnest",
+        "last_name": "Goldsmith",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "juan@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "chambreavecvie.blogspot.com",
+            "uri": "http://chambreavecvie.blogspot.com/2007/01/juanyoutubecom-2.html",
+            "extracted_on": "2018-11-23",
+            "last_seen_on": "2021-06-25",
+            "still_on_page": true
+          },
+          {
+            "domain": "chambreavecvie.blogspot.com",
+            "uri": "http://chambreavecvie.blogspot.com/2007/01/livresse-du-choc.html",
+            "extracted_on": "2018-11-23",
+            "last_seen_on": "2021-09-20",
+            "still_on_page": true
+          },
+          {
+            "domain": "chambreavecvie.blogspot.com",
+            "uri": "http://chambreavecvie.blogspot.com/2007/01/juan-demarre-lannee-avec-le-moral-au.html",
+            "extracted_on": "2018-08-19",
+            "last_seen_on": "2021-06-25",
+            "still_on_page": true
+          },
+          {
+            "domain": "chambreavecvie.blogspot.com",
+            "uri": "http://chambreavecvie.blogspot.com/2007",
+            "extracted_on": "2017-11-22",
+            "last_seen_on": "2021-08-29",
+            "still_on_page": true
+          },
+          {
+            "domain": "chambreavecvie.blogspot.com",
+            "uri": "http://chambreavecvie.blogspot.com/2007/01",
+            "extracted_on": "2017-11-22",
+            "last_seen_on": "2021-07-04",
+            "still_on_page": true
+          },
+          {
+            "domain": "chambreavecvie.blogspot.fr",
+            "uri": "http://chambreavecvie.blogspot.fr/2007",
+            "extracted_on": "2017-09-13",
+            "last_seen_on": "2019-05-21",
+            "still_on_page": false
+          },
+          {
+            "domain": "chambreavecvie.blogspot.fr",
+            "uri": "http://chambreavecvie.blogspot.fr/2007/01",
+            "extracted_on": "2017-09-13",
+            "last_seen_on": "2018-07-15",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Juan",
+        "last_name": "Demarre",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "hoseaomar@youtube.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "justicegagged.blogspot.com",
+            "uri": "http://justicegagged.blogspot.com/2011/11/americas-most-censored-mary-neal.html",
+            "extracted_on": "2017-07-21",
+            "last_seen_on": "2021-08-13",
+            "still_on_page": true
+          },
+          {
+            "domain": "justicegagged.blogspot.com.tr",
+            "uri": "http://justicegagged.blogspot.com.tr/2011/11/americas-most-censored-mary-neal.html",
+            "extracted_on": "2017-09-18",
+            "last_seen_on": "2019-02-19",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Hosea",
+        "last_name": "Omar",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 2597,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "youtube.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}

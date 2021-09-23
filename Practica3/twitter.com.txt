@@ -1,0 +1,363 @@
+{
+  "data": {
+    "domain": "twitter.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": true,
+    "pattern": "{first}{last}",
+    "organization": "Twitter",
+    "country": "US",
+    "state": "CA",
+    "emails": [
+      {
+        "value": "roblockett4@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "thepagewalker.com",
+            "uri": "http://thepagewalker.com",
+            "extracted_on": "2021-08-20",
+            "last_seen_on": "2021-08-20",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Rob",
+        "last_name": "Lockett",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-21",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "jefflabine@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "edmontonjournal.com",
+            "uri": "http://edmontonjournal.com/news/local-news/support-for-stars",
+            "extracted_on": "2021-08-01",
+            "last_seen_on": "2021-08-01",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Jeff",
+        "last_name": "Labine",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "mikeyjerome@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "hermosaone.com",
+            "uri": "http://hermosaone.com/musician/mikey-jerome",
+            "extracted_on": "2021-07-06",
+            "last_seen_on": "2021-07-06",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Mikey",
+        "last_name": "Jerome",
+        "position": "Singer Songwriter",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-12",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "chrisstringer@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "subspecieist.com",
+            "uri": "http://subspecieist.com/archaic-hominins/new-study-by-swedish-team",
+            "extracted_on": "2021-08-30",
+            "last_seen_on": "2021-08-30",
+            "still_on_page": true
+          },
+          {
+            "domain": "subspecieist.com",
+            "uri": "http://subspecieist.com/paleontology/more-hints-from-lee-berger-homo-naledi-could-be-ancestral-to-modern-africans",
+            "extracted_on": "2021-08-04",
+            "last_seen_on": "2021-08-04",
+            "still_on_page": true
+          },
+          {
+            "domain": "subspecieist.com",
+            "uri": "http://subspecieist.com/archaic-hominins/new-study-by-swedish-team-suggests-africans-have-distinct-archaic-admixture",
+            "extracted_on": "2021-03-19",
+            "last_seen_on": "2021-08-30",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Christopher",
+        "last_name": "Stringer",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "larrytaunton@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "subspecieist.com",
+            "uri": "http://subspecieist.com/racial-politics/calls-begin-to-tear-down-statues-of-charles-darwin-over-alleged-racism",
+            "extracted_on": "2021-02-07",
+            "last_seen_on": "2021-08-30",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Larry",
+        "last_name": "Taunton",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "carolchism@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "remax.com",
+            "uri": "http://remax.com/realestateagentoffice/columbus-ga-31909-carolchism-id11093587.html",
+            "extracted_on": "2020-08-16",
+            "last_seen_on": "2021-03-01",
+            "still_on_page": true
+          },
+          {
+            "domain": "debrosiagriffin.com",
+            "uri": "http://debrosiagriffin.com/realestateagentoffice/columbus-ga-31909-carolchism-id11093587.html",
+            "extracted_on": "2021-01-31",
+            "last_seen_on": "2021-01-31",
+            "still_on_page": false
+          },
+          {
+            "domain": "shaneblondin.com",
+            "uri": "http://shaneblondin.com/realestateagentoffice/columbus-ga-31909-carolchism-id11093587.html",
+            "extracted_on": "2021-01-31",
+            "last_seen_on": "2021-01-31",
+            "still_on_page": false
+          },
+          {
+            "domain": "lasvegasre411.com",
+            "uri": "http://lasvegasre411.com/realestateagentoffice/columbus-ga-31909-carolchism-id11093587.html",
+            "extracted_on": "2021-01-25",
+            "last_seen_on": "2021-01-25",
+            "still_on_page": false
+          },
+          {
+            "domain": "remax.com",
+            "uri": "http://remax.com/realestateagentoffice/columbus-ga-31904-carolchism-id11093587.html",
+            "extracted_on": "2020-08-06",
+            "last_seen_on": "2021-02-13",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Carol",
+        "last_name": "Chism",
+        "position": "Real Estate Sales",
+        "seniority": null,
+        "department": null,
+        "linkedin": "https://carolchism@linkedin.com",
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-13",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "michaelkofler@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "fc.leemhuis.info",
+            "uri": "http://fc.leemhuis.info/display/b843879c-685e-fac3-501a-256052896774",
+            "extracted_on": "2020-08-05",
+            "last_seen_on": "2021-08-05",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Michael",
+        "last_name": "Kofler",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "michaelkofler",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "shaneivey@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "convenient.email",
+            "uri": "http://convenient.email/display/2c704a81-285e-a8d8-9c57-6b3166784529",
+            "extracted_on": "2020-05-05",
+            "last_seen_on": "2021-08-15",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Shane",
+        "last_name": "Ivey",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "shaneivey",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-12",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "robertappleton@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "robertappletonbooks.com",
+            "uri": "http://robertappletonbooks.com/angel-six-echo",
+            "extracted_on": "2021-07-20",
+            "last_seen_on": "2021-07-20",
+            "still_on_page": true
+          },
+          {
+            "domain": "robertappletonbooks.com",
+            "uri": "http://robertappletonbooks.com/product-page/i-m-a-product-9",
+            "extracted_on": "2021-07-20",
+            "last_seen_on": "2021-07-20",
+            "still_on_page": true
+          },
+          {
+            "domain": "robertappletonbooks.com",
+            "uri": "http://robertappletonbooks.com",
+            "extracted_on": "2020-10-22",
+            "last_seen_on": "2021-07-24",
+            "still_on_page": true
+          },
+          {
+            "domain": "robertappletonbooks.com",
+            "uri": "http://robertappletonbooks.com/steampunk",
+            "extracted_on": "2020-07-10",
+            "last_seen_on": "2021-07-14",
+            "still_on_page": true
+          },
+          {
+            "domain": "robertappletonbooks.com",
+            "uri": "http://robertappletonbooks.com/science-fiction",
+            "extracted_on": "2020-03-05",
+            "last_seen_on": "2021-07-14",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Robert",
+        "last_name": "Appleton",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "robertappleton",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "ralphruthe@twitter.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "friendica.art3mis.de",
+            "uri": "http://friendica.art3mis.de/display/6c7c6d29-965e-7b29-51a1-b99861876880",
+            "extracted_on": "2020-04-02",
+            "last_seen_on": "2021-07-09",
+            "still_on_page": true
+          },
+          {
+            "domain": "friendica.art3mis.de",
+            "uri": "http://friendica.art3mis.de/display/6c7c6d29-145d-8a7a-72b1-880257117978",
+            "extracted_on": "2019-12-21",
+            "last_seen_on": "2021-07-10",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Ralph",
+        "last_name": "Ruthe",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": "ralphruthe",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-13",
+          "status": "accept_all"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 4493,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "twitter.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}

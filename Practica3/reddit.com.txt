@@ -1,0 +1,916 @@
+{
+  "data": {
+    "domain": "reddit.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": false,
+    "pattern": "{first}",
+    "organization": "Reddit",
+    "country": "US",
+    "state": "CA",
+    "emails": [
+      {
+        "value": "allie@reddit.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "nflcommunications.com",
+            "uri": "http://nflcommunications.com/pages/nfl-strikes-new-content-and-advertising-partnership-with-reddit.aspx",
+            "extracted_on": "2019-10-14",
+            "last_seen_on": "2021-07-14",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Allie",
+        "last_name": "Mack",
+        "position": "Media Contact",
+        "seniority": null,
+        "department": "communication",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-14",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "lin.huang@reddit.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "globalbigdataconference.com",
+            "uri": "http://globalbigdataconference.com/108/3rd-annual-global-artificial-intelligence-conference/suggesttopic.html",
+            "extracted_on": "2019-03-15",
+            "last_seen_on": "2021-09-19",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Lin",
+        "last_name": "Huang",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "chris@reddit.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/reddit/reddit/blob/3326bb153cf5067b5e7e7c5724175a3e9beceab6/.mailmap",
+            "extracted_on": "2021-03-03",
+            "last_seen_on": "2021-09-22",
+            "still_on_page": true
+          },
+          {
+            "domain": "code.uplex.de",
+            "uri": "http://code.uplex.de/varnishcache/varnish-devicedetect/commit/83344d1d65313073cf5694c70bd700cff66cb5c2",
+            "extracted_on": "2020-01-12",
+            "last_seen_on": "2021-07-14",
+            "still_on_page": true
+          },
+          {
+            "domain": "code.uplex.de",
+            "uri": "http://code.uplex.de/varnishcache/varnish-devicedetect/tree/4681accdca345f2adc97e22efbdc314ca848c87a",
+            "extracted_on": "2020-01-12",
+            "last_seen_on": "2021-07-14",
+            "still_on_page": true
+          },
+          {
+            "domain": "code.uplex.de",
+            "uri": "http://code.uplex.de/varnishcache/varnish-devicedetect/tree/83344d1d65313073cf5694c70bd700cff66cb5c2",
+            "extracted_on": "2020-01-12",
+            "last_seen_on": "2021-07-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "code.uplex.de",
+            "uri": "http://code.uplex.de/varnishcache/varnish-devicedetect/commits/master",
+            "extracted_on": "2020-01-10",
+            "last_seen_on": "2021-07-14",
+            "still_on_page": true
+          },
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/chancejiang/reddit/blob/master/.mailmap",
+            "extracted_on": "2019-06-23",
+            "last_seen_on": "2021-08-31",
+            "still_on_page": true
+          },
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/rishika/reddit/blob/master/.mailmap",
+            "extracted_on": "2018-09-14",
+            "last_seen_on": "2021-07-09",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Chris",
+        "last_name": "Slowe",
+        "position": "Developer",
+        "seniority": null,
+        "department": "it",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-13",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "steve@reddit.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/rishika/reddit/blob/master/.mailmap",
+            "extracted_on": "2018-03-08",
+            "last_seen_on": "2021-07-09",
+            "still_on_page": true
+          },
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/chancejiang/reddit/blob/master/.mailmap",
+            "extracted_on": "2016-11-11",
+            "last_seen_on": "2021-08-31",
+            "still_on_page": true
+          },
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/reddit/reddit/blob/3326bb153cf5067b5e7e7c5724175a3e9beceab6/.mailmap",
+            "extracted_on": "2015-05-05",
+            "last_seen_on": "2021-09-22",
+            "still_on_page": true
+          },
+          {
+            "domain": "whouses.io",
+            "uri": "http://whouses.io/domains/reddit.com/contacts",
+            "extracted_on": "2020-03-14",
+            "last_seen_on": "2020-06-14",
+            "still_on_page": false
+          },
+          {
+            "domain": "bcweesp.com",
+            "uri": "http://bcweesp.com/failed-to/debootstrap-error-failed-to-determine-codename.php",
+            "extracted_on": "2018-05-07",
+            "last_seen_on": "2018-08-24",
+            "still_on_page": false
+          },
+          {
+            "domain": "gbnetvideo.net",
+            "uri": "http://gbnetvideo.net/failed-to/debootstrap-error-while-installing-kali.html",
+            "extracted_on": "2018-04-27",
+            "last_seen_on": "2018-04-27",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Steve",
+        "last_name": "Huffman",
+        "position": "Developer",
+        "seniority": null,
+        "department": "it",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-13",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "victoria@reddit.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "pancommunications.com",
+            "uri": "http://pancommunications.com/blog/victoria-taylor-tells-pan-how-reddit-stays-genuine-and-what-that-means-for-marketers",
+            "extracted_on": "2019-01-03",
+            "last_seen_on": "2021-09-16",
+            "still_on_page": true
+          },
+          {
+            "domain": "prnewsonline.com",
+            "uri": "http://prnewsonline.com/on-reddit-unlike-other-social-sites-its-about-the-topic-not-the-brand",
+            "extracted_on": "2018-12-06",
+            "last_seen_on": "2021-07-13",
+            "still_on_page": true
+          },
+          {
+            "domain": "digital.gov",
+            "uri": "http://digital.gov/2014/09/03/to-learn-about-reddit-listen-first",
+            "extracted_on": "2018-11-11",
+            "last_seen_on": "2021-07-09",
+            "still_on_page": true
+          },
+          {
+            "domain": "digitalservices.npr.org",
+            "uri": "http://digitalservices.npr.org/post/tips-reddit-explore-you-post-find-your-local-communities",
+            "extracted_on": "2017-08-26",
+            "last_seen_on": "2021-09-01",
+            "still_on_page": true
+          },
+          {
+            "domain": "whouses.io",
+            "uri": "http://whouses.io/domains/reddit.com/contacts",
+            "extracted_on": "2020-03-14",
+            "last_seen_on": "2020-06-14",
+            "still_on_page": false
+          },
+          {
+            "domain": "editorial.digitalservices.npr.org",
+            "uri": "http://editorial.digitalservices.npr.org/post/tips-reddit-explore-you-post-find-your-local-communities",
+            "extracted_on": "2018-10-28",
+            "last_seen_on": "2018-10-28",
+            "still_on_page": false
+          },
+          {
+            "domain": "blog.pancommunications.com",
+            "uri": "http://blog.pancommunications.com/blog/prspeak/2014/05/how-reddit-stays-genuine-and-what-that-means-for-marketers",
+            "extracted_on": "2017-04-25",
+            "last_seen_on": "2019-05-11",
+            "still_on_page": false
+          },
+          {
+            "domain": "engagepr.com",
+            "uri": "http://engagepr.com/epr_blog/when-the-narwhal-bacons-and-why-it-matters-to-pr-pros",
+            "extracted_on": "2016-06-23",
+            "last_seen_on": "2017-02-28",
+            "still_on_page": false
+          },
+          {
+            "domain": "engagepr.com",
+            "uri": "http://engagepr.com/2013/09",
+            "extracted_on": "2016-02-22",
+            "last_seen_on": "2016-03-27",
+            "still_on_page": false
+          },
+          {
+            "domain": "engagepr.com",
+            "uri": "http://engagepr.com/category/blog/2013/09",
+            "extracted_on": "2016-02-22",
+            "last_seen_on": "2017-05-24",
+            "still_on_page": false
+          },
+          {
+            "domain": "torystarr.com",
+            "uri": "http://torystarr.com/2014/09/17/tales-from-my-first-reddit-ama/",
+            "extracted_on": "2015-10-15",
+            "last_seen_on": "2016-06-09",
+            "still_on_page": false
+          },
+          {
+            "domain": "torystarr.com",
+            "uri": "http://torystarr.com/category/newsroom-2/",
+            "extracted_on": "2015-10-15",
+            "last_seen_on": "2015-10-15",
+            "still_on_page": false
+          },
+          {
+            "domain": "torystarr.com",
+            "uri": "http://torystarr.com/category/tips/page/3/",
+            "extracted_on": "2015-10-15",
+            "last_seen_on": "2015-10-15",
+            "still_on_page": false
+          },
+          {
+            "domain": "torystarr.com",
+            "uri": "http://torystarr.com/tag/engagement/",
+            "extracted_on": "2015-10-15",
+            "last_seen_on": "2015-10-15",
+            "still_on_page": false
+          },
+          {
+            "domain": "torystarr.com",
+            "uri": "http://torystarr.com/trending/page/6/",
+            "extracted_on": "2015-10-15",
+            "last_seen_on": "2015-10-15",
+            "still_on_page": false
+          },
+          {
+            "domain": "prnewsonline.com",
+            "uri": "http://prnewsonline.com/topics/social-media/2013/10/28/on-reddit-unlike-other-social-sites-its-about-the-topic-not-the-brand",
+            "extracted_on": "2015-04-28",
+            "last_seen_on": "2016-09-16",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Victoria",
+        "last_name": "Taylor",
+        "position": "Director Of Communications",
+        "seniority": "executive",
+        "department": "communication",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "alexis@reddit.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/reddit/reddit/blob/3326bb153cf5067b5e7e7c5724175a3e9beceab6/.mailmap",
+            "extracted_on": "2021-09-22",
+            "last_seen_on": "2021-09-22",
+            "still_on_page": true
+          },
+          {
+            "domain": "cuteshorthaircuts.org",
+            "uri": "http://cuteshorthaircuts.org/pics/coolest+haircuts+ever.html",
+            "extracted_on": "2021-09-21",
+            "last_seen_on": "2021-09-21",
+            "still_on_page": true
+          },
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/chancejiang/reddit/blob/master/.mailmap",
+            "extracted_on": "2021-08-31",
+            "last_seen_on": "2021-08-31",
+            "still_on_page": true
+          },
+          {
+            "domain": "hunter.io",
+            "uri": "http://hunter.io/api/v2/docs",
+            "extracted_on": "2021-08-14",
+            "last_seen_on": "2021-08-14",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.blogspot.com",
+            "uri": "http://redditblog.blogspot.com/2008",
+            "extracted_on": "2021-08-07",
+            "last_seen_on": "2021-08-07",
+            "still_on_page": true
+          },
+          {
+            "domain": "hunter.io",
+            "uri": "http://hunter.io/api-documentation/v2",
+            "extracted_on": "2021-06-28",
+            "last_seen_on": "2021-09-17",
+            "still_on_page": true
+          },
+          {
+            "domain": "hunter.io",
+            "uri": "http://hunter.io/api/email-finder",
+            "extracted_on": "2021-06-28",
+            "last_seen_on": "2021-09-17",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.blogspot.com",
+            "uri": "http://redditblog.blogspot.com/2007/10/draw-alien-get-24hrs-of-quasi-fame.html",
+            "extracted_on": "2020-01-14",
+            "last_seen_on": "2021-07-18",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.blogspot.com",
+            "uri": "http://redditblog.blogspot.com/2008/12",
+            "extracted_on": "2020-01-12",
+            "last_seen_on": "2021-07-16",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.blogspot.com",
+            "uri": "http://redditblog.blogspot.com/2007/10",
+            "extracted_on": "2019-10-13",
+            "last_seen_on": "2021-07-19",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddit.blogspot.com",
+            "uri": "http://reddit.blogspot.com/2008/10",
+            "extracted_on": "2018-12-24",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddit.blogspot.com",
+            "uri": "http://reddit.blogspot.com/2007/08",
+            "extracted_on": "2018-11-02",
+            "last_seen_on": "2021-07-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddit.blogspot.com",
+            "uri": "http://reddit.blogspot.com/2007/10",
+            "extracted_on": "2018-11-02",
+            "last_seen_on": "2021-07-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddit.blogspot.com",
+            "uri": "http://reddit.blogspot.com/2008",
+            "extracted_on": "2018-11-02",
+            "last_seen_on": "2021-07-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.com",
+            "uri": "http://redditblog.com/2007/10/20/draw-the-alien-get-24hrs-of-quasi-fame",
+            "extracted_on": "2018-10-19",
+            "last_seen_on": "2021-08-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.com",
+            "uri": "http://redditblog.com/2008/10/22/widgets-get-an-upgrade-and-a-firefox-extension-that-will-rock-your-world",
+            "extracted_on": "2018-10-19",
+            "last_seen_on": "2021-08-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddit.blogspot.com",
+            "uri": "http://reddit.blogspot.com/2008/06",
+            "extracted_on": "2018-09-02",
+            "last_seen_on": "2021-07-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "redditblog.com",
+            "uri": "http://redditblog.com/2008/12/01/vector-art-really-is-a-limiting-medium-for-reddit-alien-creation",
+            "extracted_on": "2016-10-25",
+            "last_seen_on": "2021-08-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "whouses.io",
+            "uri": "http://whouses.io/domains/reddit.com/contacts",
+            "extracted_on": "2020-03-14",
+            "last_seen_on": "2020-06-14",
+            "still_on_page": false
+          },
+          {
+            "domain": "redditblog.blogspot.fr",
+            "uri": "http://redditblog.blogspot.fr/2007",
+            "extracted_on": "2017-09-21",
+            "last_seen_on": "2019-05-10",
+            "still_on_page": false
+          },
+          {
+            "domain": "redditblog.blogspot.fr",
+            "uri": "http://redditblog.blogspot.fr/2008",
+            "extracted_on": "2017-09-21",
+            "last_seen_on": "2019-05-07",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.com.tr",
+            "uri": "http://reddit.blogspot.com.tr/2007_08_01_archive.html",
+            "extracted_on": "2017-09-20",
+            "last_seen_on": "2019-02-23",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.com.tr",
+            "uri": "http://reddit.blogspot.com.tr/2008_06_01_archive.html",
+            "extracted_on": "2017-08-26",
+            "last_seen_on": "2019-05-07",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.fr",
+            "uri": "http://reddit.blogspot.fr/2008/06/we-have-winner.html",
+            "extracted_on": "2017-07-12",
+            "last_seen_on": "2019-05-14",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.fr",
+            "uri": "http://reddit.blogspot.fr/2008/10/aliens-invading-ars-technica.html",
+            "extracted_on": "2017-05-29",
+            "last_seen_on": "2019-05-23",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.fr",
+            "uri": "http://reddit.blogspot.fr/2007/08/save-our-earth-and-drink-fiji-bottled.html",
+            "extracted_on": "2017-05-27",
+            "last_seen_on": "2019-05-23",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.fr",
+            "uri": "http://reddit.blogspot.fr/2008/10/will-real-reddit-please-stand-up.html",
+            "extracted_on": "2017-05-04",
+            "last_seen_on": "2019-05-04",
+            "still_on_page": false
+          },
+          {
+            "domain": "reddit.blogspot.fr",
+            "uri": "http://reddit.blogspot.fr/2007_08_01_archive.html",
+            "extracted_on": "2016-03-31",
+            "last_seen_on": "2019-05-10",
+            "still_on_page": false
+          },
+          {
+            "domain": "redditblog.com",
+            "uri": "http://redditblog.com/2007_10_01_archive.html",
+            "extracted_on": "2015-06-24",
+            "last_seen_on": "2016-06-11",
+            "still_on_page": false
+          },
+          {
+            "domain": "redditblog.com",
+            "uri": "http://redditblog.com/2008_12_01_archive.html",
+            "extracted_on": "2015-06-24",
+            "last_seen_on": "2016-06-07",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Alexis",
+        "last_name": "Ohanian",
+        "position": "Cofounder",
+        "seniority": "executive",
+        "department": "marketing",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-14",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "lei.gong@reddit.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "patreoncommunity.com",
+            "uri": "http://patreoncommunity.com/t/patreon-reddit-partnership/3210",
+            "extracted_on": "2020-07-23",
+            "last_seen_on": "2021-07-24",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Lei",
+        "last_name": "Gong",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-07-22",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "ashleigh@reddit.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "mobilegrowthassociation.com",
+            "uri": "http://mobilegrowthassociation.com/podcasts/ashleigh-rankin-dishes-on-which-ads-work-for-reddits-audience",
+            "extracted_on": "2020-04-26",
+            "last_seen_on": "2021-07-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "mobilegrowthsummit.com",
+            "uri": "http://mobilegrowthsummit.com/podcasts/ashleigh-rankin-dishes-on-which-ads-work-for-reddits-audience",
+            "extracted_on": "2019-11-05",
+            "last_seen_on": "2019-12-04",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Ashleigh",
+        "last_name": "Rankin",
+        "position": "Mobile Marketing",
+        "seniority": null,
+        "department": "marketing",
+        "linkedin": "https://www.linkedin.com/in/ashleigh-rankin-00659618/",
+        "twitter": "peggyanne",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-13",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "ama@reddit.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "libreddit.autarkic.org",
+            "uri": "http://libreddit.autarkic.org/r/horror",
+            "extracted_on": "2021-09-21",
+            "last_seen_on": "2021-09-21",
+            "still_on_page": true
+          },
+          {
+            "domain": "splinternews.com",
+            "uri": "http://splinternews.com/reddits-top-forums-are-shutting-down-to-protest-an-admi-1793848883",
+            "extracted_on": "2021-09-19",
+            "last_seen_on": "2021-09-19",
+            "still_on_page": true
+          },
+          {
+            "domain": "voeldegeworden.xyz",
+            "uri": "http://voeldegeworden.xyz/9793452700/4742/reddit-images.html",
+            "extracted_on": "2021-09-15",
+            "last_seen_on": "2021-09-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "insights.netgalley.com",
+            "uri": "http://insights.netgalley.com/authentic-interactions-with-reddit-amas",
+            "extracted_on": "2021-08-11",
+            "last_seen_on": "2021-08-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "insights.netgalley.com",
+            "uri": "http://insights.netgalley.com/category/best-practices/page/2",
+            "extracted_on": "2021-08-11",
+            "last_seen_on": "2021-08-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "insights.netgalley.com",
+            "uri": "http://insights.netgalley.com/page/5",
+            "extracted_on": "2021-08-11",
+            "last_seen_on": "2021-08-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "insights.netgalley.com",
+            "uri": "http://insights.netgalley.com/tag/best-practices/page/2",
+            "extracted_on": "2021-08-11",
+            "last_seen_on": "2021-08-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "ab.dmaillard.com",
+            "uri": "http://ab.dmaillard.com/2021/07/30/reddits-revolt-ama-and-other-subreddits-taken-private",
+            "extracted_on": "2021-08-07",
+            "last_seen_on": "2021-08-08",
+            "still_on_page": true
+          },
+          {
+            "domain": "blijfgelul.fun",
+            "uri": "http://blijfgelul.fun/17710357054/4871/pubg-reddit.html",
+            "extracted_on": "2021-08-05",
+            "last_seen_on": "2021-08-05",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddithelp.com",
+            "uri": "http://reddithelp.com/hc/en-us/articles/115002427523",
+            "extracted_on": "2021-07-01",
+            "last_seen_on": "2021-07-01",
+            "still_on_page": true
+          },
+          {
+            "domain": "reddithelp.com",
+            "uri": "http://reddithelp.com/hc/en-us/articles/115002427523--ask-me-anything-series",
+            "extracted_on": "2021-07-01",
+            "last_seen_on": "2021-07-01",
+            "still_on_page": true
+          },
+          {
+            "domain": "insights.netgalley.com",
+            "uri": "http://insights.netgalley.com/tag/social-media",
+            "extracted_on": "2020-04-13",
+            "last_seen_on": "2021-08-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "gehaald-mooi.icu",
+            "uri": "http://gehaald-mooi.icu/2017/06/14/2881-reddit-nederland",
+            "extracted_on": "2020-02-13",
+            "last_seen_on": "2021-08-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "rareddit.com",
+            "uri": "http://rareddit.com/r/subredditdrama/comments/3bwgjf/riama_set_to_private_over_mod_firing",
+            "extracted_on": "2019-09-30",
+            "last_seen_on": "2021-07-10",
+            "still_on_page": true
+          },
+          {
+            "domain": "rareddit.com",
+            "uri": "http://rareddit.com/r/subredditdrama/comments/3c0k1j/riama_returns_shuts_down_admin_involvement_with",
+            "extracted_on": "2019-09-30",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "searchenginejournal.com",
+            "uri": "http://searchenginejournal.com/reddits-revolt-popular-ama-subreddits-taken-private/136026",
+            "extracted_on": "2019-03-05",
+            "last_seen_on": "2021-07-31",
+            "still_on_page": true
+          },
+          {
+            "domain": "seolatest-updates.blogspot.com",
+            "uri": "http://seolatest-updates.blogspot.com/2015/07/reddits-revolt-popular-ama-and-other.html",
+            "extracted_on": "2018-08-22",
+            "last_seen_on": "2021-07-09",
+            "still_on_page": true
+          },
+          {
+            "domain": "upriser.com",
+            "uri": "http://upriser.com/posts/reddit-in-uproar-after-staff-sacking",
+            "extracted_on": "2016-05-27",
+            "last_seen_on": "2021-07-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "whouses.io",
+            "uri": "http://whouses.io/domains/reddit.com/contacts",
+            "extracted_on": "2020-06-14",
+            "last_seen_on": "2020-06-14",
+            "still_on_page": false
+          },
+          {
+            "domain": "wasnformed.cf",
+            "uri": "http://wasnformed.cf/reddit-forex-ama-394195.html",
+            "extracted_on": "2020-04-27",
+            "last_seen_on": "2020-10-27",
+            "still_on_page": false
+          },
+          {
+            "domain": "hroots.com",
+            "uri": "http://hroots.com/reddit-apologises-even-as-petition-to-remove-ceo-ellen-pao-gains-supporters",
+            "extracted_on": "2020-04-13",
+            "last_seen_on": "2021-01-15",
+            "still_on_page": false
+          },
+          {
+            "domain": "hore.pw",
+            "uri": "http://hore.pw/794567825/2744/3840x2160-wallpaper-reddit.html",
+            "extracted_on": "2020-01-14",
+            "last_seen_on": "2020-04-15",
+            "still_on_page": false
+          },
+          {
+            "domain": "forsoger.pw",
+            "uri": "http://forsoger.pw/230298094/2469/reddit-how-to-learn.html",
+            "extracted_on": "2019-12-07",
+            "last_seen_on": "2020-04-16",
+            "still_on_page": false
+          },
+          {
+            "domain": "rareddit.com",
+            "uri": "http://rareddit.com/r/outoftheloop/comments/3bxduw/why_was_riama_along_with_a_number_of_other_large",
+            "extracted_on": "2019-09-30",
+            "last_seen_on": "2021-04-10",
+            "still_on_page": false
+          },
+          {
+            "domain": "emarketingwall.com",
+            "uri": "http://emarketingwall.com/reddits-revolt-popular-ama-and-other-subreddits-taken-private-by-brentcsutoras",
+            "extracted_on": "2019-09-28",
+            "last_seen_on": "2020-04-12",
+            "still_on_page": false
+          },
+          {
+            "domain": "jnfeconsulting.com",
+            "uri": "http://jnfeconsulting.com/billgates/following",
+            "extracted_on": "2019-03-21",
+            "last_seen_on": "2019-03-21",
+            "still_on_page": false
+          },
+          {
+            "domain": "voat.co",
+            "uri": "http://voat.co/v/meanwhileonreddit/193855",
+            "extracted_on": "2019-03-16",
+            "last_seen_on": "2020-12-19",
+            "still_on_page": false
+          },
+          {
+            "domain": "otthunderdome.com",
+            "uri": "http://otthunderdome.com/t1409p300-the-great-reddit-war-of-2015",
+            "extracted_on": "2019-03-03",
+            "last_seen_on": "2019-03-03",
+            "still_on_page": false
+          },
+          {
+            "domain": "twopcharts.com",
+            "uri": "http://twopcharts.com/billgates/following",
+            "extracted_on": "2018-10-23",
+            "last_seen_on": "2019-02-05",
+            "still_on_page": false
+          },
+          {
+            "domain": "newslines.org",
+            "uri": "http://newslines.org/reddit",
+            "extracted_on": "2016-05-27",
+            "last_seen_on": "2018-08-24",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Ama",
+        "last_name": "Tatum",
+        "position": "Editor Reporter",
+        "seniority": "executive",
+        "department": "executive",
+        "linkedin": null,
+        "twitter": "reddit_ama",
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-14",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "adriana@reddit.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "pt.slideshare.net",
+            "uri": "http://pt.slideshare.net/reddit/how-to-use-reddits-selfserve-advertising-platform",
+            "extracted_on": "2021-05-25",
+            "last_seen_on": "2021-09-15",
+            "still_on_page": true
+          },
+          {
+            "domain": "slideshare.net",
+            "uri": "http://slideshare.net/reddit/how-to-use-reddits-selfserve-advertising-platform",
+            "extracted_on": "2017-05-09",
+            "last_seen_on": "2019-02-21",
+            "still_on_page": true
+          },
+          {
+            "domain": "slideshare.net",
+            "uri": "http://slideshare.net/500startups/self-serve-reddit-ads",
+            "extracted_on": "2015-01-30",
+            "last_seen_on": "2019-03-02",
+            "still_on_page": true
+          },
+          {
+            "domain": "whouses.io",
+            "uri": "http://whouses.io/domains/reddit.com/contacts",
+            "extracted_on": "2020-03-14",
+            "last_seen_on": "2020-06-14",
+            "still_on_page": false
+          },
+          {
+            "domain": "livestream.com",
+            "uri": "http://livestream.com/500sacc/redditads",
+            "extracted_on": "2015-07-28",
+            "last_seen_on": "2018-01-23",
+            "still_on_page": false
+          },
+          {
+            "domain": "livestream.com",
+            "uri": "http://livestream.com/500SAcc/RedditAds",
+            "extracted_on": "2015-05-07",
+            "last_seen_on": "2018-01-23",
+            "still_on_page": false
+          }
+        ],
+        "first_name": "Adriana",
+        "last_name": "Smith",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-14",
+          "status": "valid"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 118,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "reddit.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}

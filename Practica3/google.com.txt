@@ -1,0 +1,363 @@
+{
+  "data": {
+    "domain": "google.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": true,
+    "pattern": "{f}{last}",
+    "organization": "Google",
+    "country": "US",
+    "state": "CA",
+    "emails": [
+      {
+        "value": "mdemello@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "changelog.dreamwidth.org",
+            "uri": "http://changelog.dreamwidth.org",
+            "extracted_on": "2021-08-27",
+            "last_seen_on": "2021-08-27",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Martin",
+        "last_name": "Demello",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-10",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "fujino@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "flutter.googlesource.com",
+            "uri": "http://flutter.googlesource.com/infra/+/0eb06f9b92fe020b8afc42cbbf02e2116fc7b027",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          },
+          {
+            "domain": "flutter.googlesource.com",
+            "uri": "http://flutter.googlesource.com/infra/+/23314ad2d51f5a210b10aab4d26bdfea110afb5b",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          },
+          {
+            "domain": "flutter.googlesource.com",
+            "uri": "http://flutter.googlesource.com/infra/+/97878b2552ef5473eba4834df81da217d52ba3f4",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          },
+          {
+            "domain": "flutter.googlesource.com",
+            "uri": "http://flutter.googlesource.com/infra/+log",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          },
+          {
+            "domain": "flutter.googlesource.com",
+            "uri": "http://flutter.googlesource.com/recipes/+log",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Christopher",
+        "last_name": "Fujino",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "yrezgui@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "gitmemory.com",
+            "uri": "http://gitmemory.com/yrezgui",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Yacine",
+        "last_name": "Rezgui",
+        "position": "Creative Software Engineer Developer Advocate",
+        "seniority": null,
+        "department": "it",
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "slobdell@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "android.googlesource.com",
+            "uri": "http://android.googlesource.com/platform/development/+log",
+            "extracted_on": "2021-08-18",
+            "last_seen_on": "2021-09-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "android.googlesource.com",
+            "uri": "http://android.googlesource.com/platform/development",
+            "extracted_on": "2021-08-12",
+            "last_seen_on": "2021-08-12",
+            "still_on_page": true
+          },
+          {
+            "domain": "android.googlesource.com",
+            "uri": "http://android.googlesource.com/mirror/superproject",
+            "extracted_on": "2021-08-10",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Scott",
+        "last_name": "Lobdell",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "kmerryman@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "app.sponsorcircle.com",
+            "uri": "http://app.sponsorcircle.com/organizations/2145",
+            "extracted_on": "2021-08-07",
+            "last_seen_on": "2021-08-07",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Kelly",
+        "last_name": "Merryman",
+        "position": "Vice President Content Partnerships",
+        "seniority": "executive",
+        "department": "executive",
+        "linkedin": "https://www.linkedin.com/in/kellymerryman/",
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "dabrams@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "app.sponsorcircle.com",
+            "uri": "http://app.sponsorcircle.com/organizations/2145",
+            "extracted_on": "2021-08-07",
+            "last_seen_on": "2021-08-07",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Demi",
+        "last_name": "Abrams",
+        "position": "Marketing Manager",
+        "seniority": "senior",
+        "department": "marketing",
+        "linkedin": "https://www.linkedin.com/in/demi-abrams-b5450554/",
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-13",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "adip@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "gitmemory.com",
+            "uri": "http://gitmemory.com/guidovranken",
+            "extracted_on": "2021-08-06",
+            "last_seen_on": "2021-08-06",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Adi",
+        "last_name": "Peleg",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "vbapst@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "meta-guide.com",
+            "uri": "http://meta-guide.com/data/data-processing/text-to-image-systems/scene-generation-artificial-intelligence-2019",
+            "extracted_on": "2021-07-30",
+            "last_seen_on": "2021-07-30",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Victor",
+        "last_name": "Bapst",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-17",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "ajakubowicz@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "chromium.googlesource.com",
+            "uri": "http://chromium.googlesource.com/chromium/src/+log",
+            "extracted_on": "2021-07-28",
+            "last_seen_on": "2021-07-28",
+            "still_on_page": true
+          },
+          {
+            "domain": "chromium.googlesource.com",
+            "uri": "http://chromium.googlesource.com/codesearch/chromium/src/+log",
+            "extracted_on": "2021-07-28",
+            "last_seen_on": "2021-07-28",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Andrew",
+        "last_name": "Jakubowicz",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-09-15",
+          "status": "accept_all"
+        }
+      },
+      {
+        "value": "laurenwei@google.com",
+        "type": "personal",
+        "confidence": 94,
+        "sources": [
+          {
+            "domain": "chromium.googlesource.com",
+            "uri": "http://chromium.googlesource.com/chromium/src.git",
+            "extracted_on": "2021-08-08",
+            "last_seen_on": "2021-08-08",
+            "still_on_page": true
+          },
+          {
+            "domain": "github.com",
+            "uri": "http://github.com/chromium/chromium",
+            "extracted_on": "2021-08-08",
+            "last_seen_on": "2021-08-08",
+            "still_on_page": true
+          },
+          {
+            "domain": "chromium.googlesource.com",
+            "uri": "http://chromium.googlesource.com/chromium/src/+log",
+            "extracted_on": "2021-08-04",
+            "last_seen_on": "2021-08-13",
+            "still_on_page": true
+          },
+          {
+            "domain": "chromium.googlesource.com",
+            "uri": "http://chromium.googlesource.com/codesearch/chromium/src/+log",
+            "extracted_on": "2021-08-04",
+            "last_seen_on": "2021-08-10",
+            "still_on_page": true
+          },
+          {
+            "domain": "chromium.googlesource.com",
+            "uri": "http://chromium.googlesource.com/chromium/src.git/+log",
+            "extracted_on": "2021-07-27",
+            "last_seen_on": "2021-08-13",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Lauren",
+        "last_name": "Wei",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 33252,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "google.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}

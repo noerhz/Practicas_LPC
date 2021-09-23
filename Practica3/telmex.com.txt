@@ -1,0 +1,349 @@
+{
+  "data": {
+    "domain": "telmex.com",
+    "disposable": false,
+    "webmail": false,
+    "accept_all": false,
+    "pattern": "{f}{last}",
+    "organization": "Lucasfilm Ltd",
+    "country": null,
+    "state": null,
+    "emails": [
+      {
+        "value": "jreynoso@telmex.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "telmex.com",
+            "uri": "http://telmex.com/web/acerca-de-telmex/consejo-de-administracion",
+            "extracted_on": "2021-05-25",
+            "last_seen_on": "2021-08-29",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Jose",
+        "last_name": "Reynoso",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-08-08",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "ggalvez@telmex.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "bienestartelmex.org",
+            "uri": "http://bienestartelmex.org/recursos",
+            "extracted_on": "2019-01-17",
+            "last_seen_on": "2021-08-30",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Griselda",
+        "last_name": "Galvez",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "epacheco@telmex.com",
+        "type": "personal",
+        "confidence": 99,
+        "sources": [
+          {
+            "domain": "slideserve.com",
+            "uri": "http://slideserve.com/joy/beneficios-para-socios-abril-2009",
+            "extracted_on": "2017-05-04",
+            "last_seen_on": "2020-04-17",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Eduardo",
+        "last_name": "Pacheco",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "sgambino@telmex.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "bienestartelmex.org",
+            "uri": "http://bienestartelmex.org/recursos",
+            "extracted_on": "2019-01-17",
+            "last_seen_on": "2021-08-30",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Sandra",
+        "last_name": "Gambino",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "gchacon@telmex.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "golfcuernavaca.com",
+            "uri": "http://golfcuernavaca.com/directorio.php",
+            "extracted_on": "2017-09-13",
+            "last_seen_on": "2021-09-16",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Graciela",
+        "last_name": "Chacon",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "lserrano@telmex.com",
+        "type": "personal",
+        "confidence": 98,
+        "sources": [
+          {
+            "domain": "slideserve.com",
+            "uri": "http://slideserve.com/joy/beneficios-para-socios-abril-2009",
+            "extracted_on": "2017-05-04",
+            "last_seen_on": "2020-04-17",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Luz",
+        "last_name": "Serrano",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "amacias@telmex.com",
+        "type": "personal",
+        "confidence": 97,
+        "sources": [
+          {
+            "domain": "apestan.com",
+            "uri": "http://apestan.com/cases/fragancex-ciudad-de-mexico-distrito-federal-mexico_12379.html",
+            "extracted_on": "2020-08-04",
+            "last_seen_on": "2021-08-04",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Adrian",
+        "last_name": "Macias",
+        "position": "Customer Service",
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "jalcazar@telmex.com",
+        "type": "personal",
+        "confidence": 97,
+        "sources": [
+          {
+            "domain": "residenciasprofesionalesitv.blogspot.com",
+            "uri": "http://residenciasprofesionalesitv.blogspot.com/2012/04/bolsa-de-trabajo-telefonos-de-mexico.html",
+            "extracted_on": "2018-10-12",
+            "last_seen_on": "2021-08-15",
+            "still_on_page": true
+          }
+        ],
+        "first_name": "Jose",
+        "last_name": "Alcazar",
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": null,
+          "status": null
+        }
+      },
+      {
+        "value": "bdigital@telmex.com",
+        "type": "generic",
+        "confidence": 96,
+        "sources": [
+          {
+            "domain": "telmexeducacion.com",
+            "uri": "http://telmexeducacion.com/plataforma-educativa/course/index.php",
+            "extracted_on": "2019-11-05",
+            "last_seen_on": "2021-08-05",
+            "still_on_page": true
+          },
+          {
+            "domain": "aldeadigitaliztapalapa.telmex.com",
+            "uri": "http://aldeadigitaliztapalapa.telmex.com/terminos-condiciones",
+            "extracted_on": "2018-11-17",
+            "last_seen_on": "2021-09-16",
+            "still_on_page": true
+          },
+          {
+            "domain": "telmexeducacion.com",
+            "uri": "http://telmexeducacion.com/plataforma-educativa",
+            "extracted_on": "2019-11-05",
+            "last_seen_on": "2021-05-05",
+            "still_on_page": false
+          }
+        ],
+        "first_name": null,
+        "last_name": null,
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-08-10",
+          "status": "valid"
+        }
+      },
+      {
+        "value": "bkdigital@telmex.com",
+        "type": "generic",
+        "confidence": 96,
+        "sources": [
+          {
+            "domain": "becadigitalcarso.org",
+            "uri": "http://becadigitalcarso.org/bdc_preg_frec.php",
+            "extracted_on": "2019-11-30",
+            "last_seen_on": "2021-09-05",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.org",
+            "uri": "http://becadigitalcarso.org/contacto.php",
+            "extracted_on": "2019-11-30",
+            "last_seen_on": "2021-08-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.org",
+            "uri": "http://becadigitalcarso.org/recomendaciones.php",
+            "extracted_on": "2019-11-30",
+            "last_seen_on": "2021-09-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.com",
+            "uri": "http://becadigitalcarso.com/bdc_preg_frec.php",
+            "extracted_on": "2017-11-08",
+            "last_seen_on": "2021-07-11",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.com",
+            "uri": "http://becadigitalcarso.com/bdc_solicitud_1.php",
+            "extracted_on": "2017-11-08",
+            "last_seen_on": "2021-09-19",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.com",
+            "uri": "http://becadigitalcarso.com/contacto.php",
+            "extracted_on": "2017-11-08",
+            "last_seen_on": "2021-07-27",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.com",
+            "uri": "http://becadigitalcarso.com/bdc_beca.php",
+            "extracted_on": "2017-11-07",
+            "last_seen_on": "2021-08-25",
+            "still_on_page": true
+          },
+          {
+            "domain": "becadigitalcarso.com",
+            "uri": "http://becadigitalcarso.com/recomendaciones.php",
+            "extracted_on": "2017-11-07",
+            "last_seen_on": "2021-09-08",
+            "still_on_page": true
+          }
+        ],
+        "first_name": null,
+        "last_name": null,
+        "position": null,
+        "seniority": null,
+        "department": null,
+        "linkedin": null,
+        "twitter": null,
+        "phone_number": null,
+        "verification": {
+          "date": "2021-08-10",
+          "status": "valid"
+        }
+      }
+    ]
+  },
+  "meta": {
+    "results": 108,
+    "limit": 10,
+    "offset": 0,
+    "params": {
+      "domain": "telmex.com",
+      "company": null,
+      "type": null,
+      "seniority": null,
+      "department": null
+    }
+  }
+}
