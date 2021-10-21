@@ -1,4 +1,4 @@
-                                 ****Envio de correos por bash*****
+                                *****Envio de correos por bash*****
 
 [*] El codigo debe de ser ejecutado como super usuario, como se muestra en el siguiente ejemplo:
 
