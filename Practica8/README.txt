@@ -1,8 +1,8 @@
-                                *****Envio de correos por bash*****
+Envio de correos por bash:
 
 [*] El codigo debe de ser ejecutado como super usuario, como se muestra en el siguiente ejemplo:
 
-===> ego@deathsego~/Documents/Practica9$ sudo ./Application.sh
+===> ego@deathsego~/Documents/Practica8$ sudo ./Application.sh
 
 [*] El codigo debe de contener 3 parametros: 1. Correo, 2. Contraseña, 3. Hostname. Ejemplo:
 
