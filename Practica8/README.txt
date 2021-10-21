@@ -1,5 +1,5 @@
-Este es un script en bash para envio de correos, las instrucciones de uso son las siguientes:
-======================================================================================================================
+                                 ****Envio de correos por bash*****
+
 [*] El codigo debe de ser ejecutado como super usuario, como se muestra en el siguiente ejemplo:
 
 ===> ego@deathsego~/Documents/Practica9$ sudo ./Application.sh
